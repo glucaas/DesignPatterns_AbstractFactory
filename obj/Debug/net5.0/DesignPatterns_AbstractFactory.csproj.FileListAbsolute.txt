@@ -1,0 +1,16 @@
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_AbstractFactory\bin\Debug\net5.0\DesignPatterns_AbstractFactory.exe
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_AbstractFactory\bin\Debug\net5.0\DesignPatterns_AbstractFactory.deps.json
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_AbstractFactory\bin\Debug\net5.0\DesignPatterns_AbstractFactory.runtimeconfig.json
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_AbstractFactory\bin\Debug\net5.0\DesignPatterns_AbstractFactory.runtimeconfig.dev.json
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_AbstractFactory\bin\Debug\net5.0\DesignPatterns_AbstractFactory.dll
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_AbstractFactory\bin\Debug\net5.0\ref\DesignPatterns_AbstractFactory.dll
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_AbstractFactory\bin\Debug\net5.0\DesignPatterns_AbstractFactory.pdb
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_AbstractFactory\obj\Debug\net5.0\DesignPatterns_AbstractFactory.csprojAssemblyReference.cache
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_AbstractFactory\obj\Debug\net5.0\DesignPatterns_AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_AbstractFactory\obj\Debug\net5.0\DesignPatterns_AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_AbstractFactory\obj\Debug\net5.0\DesignPatterns_AbstractFactory.AssemblyInfo.cs
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_AbstractFactory\obj\Debug\net5.0\DesignPatterns_AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_AbstractFactory\obj\Debug\net5.0\DesignPatterns_AbstractFactory.dll
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_AbstractFactory\obj\Debug\net5.0\ref\DesignPatterns_AbstractFactory.dll
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_AbstractFactory\obj\Debug\net5.0\DesignPatterns_AbstractFactory.pdb
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_AbstractFactory\obj\Debug\net5.0\DesignPatterns_AbstractFactory.genruntimeconfig.cache
